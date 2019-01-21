@@ -68,7 +68,7 @@ Occasional extra credit problems will be available on homework assignments.
 Final grades will be out of 100 points. >=70 points is passing. Grades will be assigned using the following scale:
 
 A+:100+
-A:93-100, A-:90-92,
+A:93-99, A-:90-92,
 B+:87-89, B:83-86, B-:80-82,
 C+:77-79, C:73-76, C-:70-72,
 F:0-69.
