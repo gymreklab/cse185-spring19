@@ -42,16 +42,16 @@ For the last 3 weeks of the quarter, students will work in groups on an independ
 
 | Week | Date | Topic |
 |----------|----------|-------|
-| 1 | 04/01/2018 | **Lab 1 |
-| 2 | 04/08/2018 | **Lab 2 |
-| 3 | 04/15/2018 | **Lab 3 | 
-| 4 | 04/22/2018 | **Lab 4 | 
-| 5 | 04/29/2018 | **Lab 5 | 
-| 6 | 05/06/2018 | **Lab 6 | 
-| 7 | 05/13/2018 | **Lab 7 | 
-| 8 | 05/20/2018 | Independent Projects |
-| 9 | 05/27/2018 | Independent Projects |
-| 10 | 06/03/2018 | Independent Projects |
+| 1 | 04/01/2018 | **Lab 1** |
+| 2 | 04/08/2018 | **Lab 2** |
+| 3 | 04/15/2018 | **Lab 3** | 
+| 4 | 04/22/2018 | **Lab 4** | 
+| 5 | 04/29/2018 | **Lab 5** | 
+| 6 | 05/06/2018 | **Lab 6** | 
+| 7 | 05/13/2018 | **Lab 7** | 
+| 8 | 05/20/2018 | **Independent Projects** |
+| 9 | 05/27/2018 | **Independent Projects** |
+| 10 | 06/03/2018 | **Independent Projects** |
 
 # Grading
 Grades will be based on:
