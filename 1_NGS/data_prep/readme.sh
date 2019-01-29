@@ -5,6 +5,20 @@
 ### See table of mutations Table S1 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3322360/
 ### e.g. de novo coding mutation chr6:128505804-128505805
 
+### Tools/packages needed for assignment
+# fastqc
+###
+
+### Data needed for week1 directory
+# hg19.fa
+# NA12878_child_1.fq
+# NA12878_child_2.fq
+# NA12891_father_1.fq
+# NA12891_father_2.fq
+# NA12892_mother_1.fq
+# NA12892_mother_2.fq
+###
+
 OUTDIR=/storage/mgymrek/cse-185-spring19/lab1_NGS/data
 
 ## 1. Extract BAM region (+/- 100kb)
@@ -26,4 +40,7 @@ do
 	-fq ${OUTDIR}/$(basename $f .sorted.bam)_1.fq \
 	-fq2 ${OUTDIR}/$(basename $f .sorted.bam)_2.fq
 done
+
+## 4. ref to reference genome
+ln -s /storage/resources/dbase/human/hg19/hg19.fa /storage/mgymrek/cse-185-spring19/lab1_NGS/data/hg19.fa
 
