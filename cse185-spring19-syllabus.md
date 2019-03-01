@@ -28,7 +28,6 @@ By the end of the course, students will:
 ## Course structure
 The course consists of two lectures (1 hour) and two lab sessions (2 hours) each week. Based on the time you signed up for, you will be assigned to a lab section on the first day of class.
 Lectures will cover background material needed to complete the lab projects. Labs will consist of hands-on assignments focusing on real-world analyses of biological datasets.
-The first lecture/lab will typically focus on a specific biological and corresponding computational problem. The second lecture/lab will focus more on applications.
 
 Attendance at lab and lecture is not mandatory but highly encouraged.
 
