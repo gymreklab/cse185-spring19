@@ -6,7 +6,7 @@ Course website for CSE 185 Spring 2019
 [Lab guidelines](https://github.com/gymreklab/cse185-spring19/blob/master/cse185-spring19-labs.md)
 
 | Week | Topic | Lecture 1 | Lecture 2 | Lab Assignments |
-|------|-------|-----------|-------|-----------|-------|
+|------|-------|-----------|-------|-----------|
 |  1 | TBD | TBD | TBD | TBD | 
 |  2 | TBD | TBD | TBD |  TBD <br>Quiz 1 |
 |  3 | TBD | TBD | TBD |  TBD |
