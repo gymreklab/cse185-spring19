@@ -2,7 +2,7 @@
 
 **Instructor**: Dr. Melissa Gymrek, mgymrek@eng.ucsd.edu
 
-**TAs**: TBD
+**TAs**: Shubham Saini, Cynthia Wu
 
 **Class**: TBD
 
@@ -31,9 +31,9 @@ Lectures will cover background material needed to complete the lab projects. Lab
 
 Attendance at lab and lecture is not mandatory but highly encouraged.
 
-For the first 7 weeks, students will work on a weekly lab assignment. Pre-class assignments are due before the start of the lab. The remainder of the lab assignment may be completed with a partner, but **you must choose a different partner each week**. Lab reports are due the following Monday before the start of lecture. Assignments will be submitted through JupyterLab and grades will be posted on Gradescope. We will strive to post grades within one week.
+For the first 7 weeks, students will work on a weekly lab assignment. Pre-class assignments should be completed before the start of the lab. The remainder of the lab assignment may be completed with a partner, but **you must choose a different partner each week**. Lab assignments are due the following Monday before the start of lecture. Assignments will be completed using JupyterLab and Github and will be submitted using Gradescope. We will strive to post grades within one week.
 
-There will be a short quiz at the end of weeks 2, 4, and 6 in lab meant to test students' understanding of and ability to apply the concepts learned.
+There will be a short quiz at the end of weeks 2, 4, and 6 in the Thursday lab meant to test students' understanding of and ability to apply the concepts learned.
 
 For the last 3 weeks of the quarter, students will work in groups on an independent project.
 
@@ -41,13 +41,13 @@ For the last 3 weeks of the quarter, students will work in groups on an independ
 
 | Week | Date | Topic |
 |----------|----------|-------|
-| 1 | 04/01/2018 | **Lab 1** |
-| 2 | 04/08/2018 | **Lab 2** |
-| 3 | 04/15/2018 | **Lab 3** | 
-| 4 | 04/22/2018 | **Lab 4** | 
-| 5 | 04/29/2018 | **Lab 5** | 
-| 6 | 05/06/2018 | **Lab 6** | 
-| 7 | 05/13/2018 | **Lab 7** | 
+| 1 | 04/01/2018 | **Lab 1: Intro to NGS** |
+| 2 | 04/08/2018 | **Lab 2: Genome assembly** |
+| 3 | 04/15/2018 | **Lab 3: Population genetics** | 
+| 4 | 04/22/2018 | **Lab 4: RNA-seq** | 
+| 5 | 04/29/2018 | **Lab 5: ChIP-seq** | 
+| 6 | 05/06/2018 | **Lab 6: Single cell** | 
+| 7 | 05/13/2018 | **Lab 7: Proteomics** | 
 | 8 | 05/20/2018 | **Independent Projects** |
 | 9 | 05/27/2018 | **Independent Projects** |
 | 10 | 06/03/2018 | **Independent Projects** |
@@ -55,7 +55,7 @@ For the last 3 weeks of the quarter, students will work in groups on an independ
 # Grading
 Grades will be based on:
 
-* Homework (70%): Each lab counts for 10% total (2% for preclass, 8% for main lab assignment)
+* Homework (70%): Each lab counts for 10% total (2% for prelab, 8% for main lab assignment)
 * Quizzes (9%): Each quiz is worth 3% each
 * Final projects (16%): Proposal 3%, report 10%, presentation 3%
 * Participation (5%): This can be earned in many ways, e.g. by participating in lecture, asking questions in lab, coming to office hours.
@@ -72,7 +72,7 @@ B+:87-89, B:83-86, B-:80-82,
 C+:77-79, C:73-76, C-:70-72,
 F:0-69.
 
-You will lose 5% of the lab report grade for each day a report is late. This is capped after 4 days, so after 4 days your baseline score for the report is 80%.
+You will lose 0.5 points on your lab assignment (out of 10) for each day it is late. This is capped after 4 days, so after 4 days your baseline score for the report is 8/10 points.
 
 If you miss a quiz you must email to notify us before the class period with an excused absence and we can reschedule a makeup.
 
@@ -92,5 +92,6 @@ Our instructional staff will make a concerted effort to be welcoming and inclusi
 We also expect that you, as a student in this course, will honor and respect your classmates, abiding by the UCSD Principles of Community (https://ucsd.edu/about/principles.html).  Please understand that others’ backgrounds, perspectives and experiences may be different than your own, and help us to build an environment where everyone is respected and feels comfortable.
 
 If you experience any sort of harassment or discrimination, please contact the instructor as soon as possible.   If you prefer to speak with someone outside of the course, please contact the Office of Prevention of Harassment and Discrimination: https://ophd.ucsd.edu/. 
+
 ## Disclaimer
 While we have every intention of following this syllabus, any information here is subject to change.

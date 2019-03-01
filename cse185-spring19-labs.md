@@ -1,22 +1,19 @@
 # CSE185 Spring 2019 Lab Guidelines
 
-For the first 7 weeks, we will work on a different lab assignment each week during the Tuesday and Thursday lab sessions. Lab reports are due the following Monday before the start of class.
+For the first 7 weeks, we will work on a different lab assignment each week during the Tuesday and Thursday lab sessions. Lab assignments are due the following Monday before the start of class.
 
-Each lab will require you to have access to the joint class server for data analysis and to JupyterHub for completing preclass assignments and reports. Detailed instructions are given below.
+Each lab will require you to have access to JupyterLab through datahub.ucsd.edu. Our first lab assignment will involve getting set up on this system.
 
-## Connecting to the server
-If you already have a UCSD username on `ieng6.ucsd.edu`, you should be able to log in with that. To activate a course specific account, go to: https://sdacs.ucsd.edu/~icc/index.php.
+## Accessing the lab assignments
 
-Once you've obtained a username, you can log into the server from the terminal using ssh:
-```
-ssh $username@ieng6.ucsd.edu
-```
+Assignments will be posted in the public https://github.com/gymreklab/cse185-spring19-labs repository.
 
-This will take you to your course home directory (`/home/linux/ieng6/cs185s/$username`). All materials for the course will be provided in the `/home/linux/ieng6/cs185s/public` directory each week.
+Using the terminal through JupyterLab, you'll pull down the assignment for each week and copy 
 
-If you are logging in with your UCSD username, you will need to run the `prep` command to active the cse185 course environment.
+Each week, you'll create your own Github repository where you'll copy these
 
-## Accessing the pre-lab and lab assignment on JupyterHub
+Each lab session, you'll pull in the latest assignment using the terminal through JupyterLab, 
+
 
 TBD
 
