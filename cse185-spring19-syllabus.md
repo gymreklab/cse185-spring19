@@ -31,7 +31,9 @@ Lectures will cover background material needed to complete the lab projects. Lab
 
 Attendance at lab and lecture is not mandatory but highly encouraged.
 
-For the first 7 weeks, students will work on a weekly lab assignment. Pre-class assignments should be completed before the start of the lab. The remainder of the lab assignment may be completed with a partner, but **you must choose a different partner each week**. Lab assignments are due the following Monday before the start of lecture. Assignments will be completed using JupyterLab and Github and will be submitted using Gradescope. We will strive to post grades within one week.
+For the first 7 weeks, students will work on a weekly lab assignment. Pre-class assignments should be completed before the start of the lab. The remainder of the lab assignment may be completed with a partner, but **you must choose a different partner each week**. Both of you must turn in the assignment separately. Lab assignments are due the following Monday before the start of lecture. Assignments will be completed using JupyterLab.
+
+Grades will be released using Gradesource. We will strive to post grades within one week of the due date of each lab.
 
 There will be a short quiz at the end of weeks 2, 4, and 6 in the Thursday lab meant to test students' understanding of and ability to apply the concepts learned.
 
@@ -60,7 +62,7 @@ Grades will be based on:
 * Final projects (16%): Proposal 3%, report 10%, presentation 3%
 * Participation (5%): This can be earned in many ways, e.g. by participating in lecture, asking questions in lab, coming to office hours.
 
-At the end of the quarter, if *all* students fille out a course evaluation the lowest scoring weekly homework assignment will be dropped.
+At the end of the quarter, if *all* students fill out a course evaluation the lowest scoring weekly homework assignment will be dropped.
 
 Occasional extra credit problems will be available on homework assignments.
 
