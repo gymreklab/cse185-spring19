@@ -8,7 +8,7 @@ Lecture slides will be posted here throughout the quarter.
 <br>
 Assignments will be posted each week on our course JupyterHub at [datahub.ucsd.edu](datahub.ucsd.edu).
 <br>
-We will use [Piazza](https://piazza.com) (UCSD Course CSE 185) for discussions about assignments.
+We will use [Piazza](https://piazza.com/ucsd/spring2019/cse185/home) for discussions about assignments.
 <br>
 Grades will be posted on [Gradesource](gradesource.com) Course CSE185-SP19
 
