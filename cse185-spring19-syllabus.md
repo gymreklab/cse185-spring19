@@ -11,7 +11,7 @@
 **Office Hours**:
 * Melissa 3:30-4:30pm Thursdays CSE 4216
 * Shubham TBD
-* Cynthia TBD
+* Cynthia 10:30-11:30am Wednesdays
 * Jonathan TBD
 
 Private appointments to discuss accommodations or special circumstances can be arranged by email.
