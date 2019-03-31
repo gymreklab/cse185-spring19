@@ -12,6 +12,8 @@ We will use [Piazza](https://piazza.com/ucsd/spring2019/cse185/home) for discuss
 <br>
 Grades will be posted on [Gradesource](gradesource.com) Course CSE185-SP19
 
+See [Jupyter Assignment Instructions](https://github.com/gymreklab/cse185-spring19/blob/master/jupyter_assignment_instructions.md) to get started with the labs.
+
 # Schedule
 
 | Week | Topic | Lecture 1 | Lecture 2 | Lab Assignments |
