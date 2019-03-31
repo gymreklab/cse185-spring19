@@ -10,7 +10,7 @@
 
 **Office Hours**:
 * Melissa 3:30-4:30pm Thursdays CSE 4216
-* Shubham TBD
+* Shubham 12:00-1:00pm Tuesdays Location TBD
 * Cynthia 10:30-11:30am Wednesdays
 * Jonathan TBD
 
