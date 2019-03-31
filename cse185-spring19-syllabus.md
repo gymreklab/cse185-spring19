@@ -2,11 +2,17 @@
 
 **Instructor**: Dr. Melissa Gymrek, mgymrek@eng.ucsd.edu
 
-**TAs**: Shubham Saini, Cynthia Wu
+**TAs**: Shubham Saini (s1saini@eng.ucsd.edu), Cynthia Wu (cew003@eng.ucsd.edu), Jonathan Margoliash (jmargoli@eng.ucsd.edu )
 
-**Class**: TBD
+**Lectures**: MW 9-9:50 HSS 1330
 
-**Office Hours**: TBD
+**Labs**: TR 10-11:50 EBU3B (B230, B240, and B260)
+
+**Office Hours**:
+* Melissa 3:30-4:30pm Thursdays CSE 4216
+* Shubham TBD
+* Cynthia TBD
+* Jonathan TBD
 
 Private appointments to discuss accommodations or special circumstances can be arranged by email.
 
