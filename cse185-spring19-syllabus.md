@@ -2,7 +2,7 @@
 
 **Instructor**: Dr. Melissa Gymrek, mgymrek@eng.ucsd.edu
 
-**TAs**: Shubham Saini (s1saini@eng.ucsd.edu), Cynthia Wu (cew003@eng.ucsd.edu), Jonathan Margoliash (jmargoli@eng.ucsd.edu )
+**TAs**: Shubham Saini (s1saini@eng.ucsd.edu), Cynthia Wu (cew003@eng.ucsd.edu), Jonathan Margoliash (jmargoli@eng.ucsd.edu)
 
 **Lectures**: MW 9-9:50 HSS 1330
 
