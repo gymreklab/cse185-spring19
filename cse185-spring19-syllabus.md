@@ -12,7 +12,7 @@
 * Melissa 3:30-4:30pm Thursdays CSE 4216
 * Shubham 12:00-1:00pm Tuesdays CSE B250A
 * Cynthia 10:30-11:30am Wednesdays
-* Jonathan TBD
+* Jonathan 2:30-3:30pm Mondays CSE B215
 
 Private appointments to discuss accommodations or special circumstances can be arranged by email.
 
