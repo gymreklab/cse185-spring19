@@ -18,7 +18,7 @@ See [Jupyter Assignment Instructions](https://github.com/gymreklab/cse185-spring
 
 | Week | Topic | Lecture 1 | Lecture 2 | Lab Assignments |
 |------|-------|-----------|-------|-----------|
-|  1 | Intro to NGS | TBD | TBD | Mutation hunting - find the needle in a haystack | 
+|  1 | Intro to NGS | [Course overview + NGS intro](https://drive.google.com/file/d/1VUE79izlkmxHZkKxbqno6EeC-1VhtcYb/view?usp=sharing) | TBD | Mutation hunting - find the needle in a haystack | 
 |  2 | Genome assembly | TBD | TBD | So where do all those reference genomes come from, anyway? <br>Quiz 1 |
 |  3 | Population genetics | TBD | TBD |   How tall should I be? |
 |  4 | RNA-seq | TBD | TBD |  You are what you eat <br>Quiz 2 |
