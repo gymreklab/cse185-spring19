@@ -14,6 +14,8 @@ Grades will be posted on [Gradesource](gradesource.com) Course CSE185-SP19
 
 See [Jupyter Assignment Instructions](https://github.com/gymreklab/cse185-spring19/blob/master/jupyter_assignment_instructions.md) to get started with the labs.
 
+See [Resources](https://github.com/gymreklab/cse185-spring19/blob/master/resources.md) for more helpful resources each week.
+
 # Schedule
 
 | Week | Topic | Lecture 1 | Lecture 2 | Lab Assignments |
