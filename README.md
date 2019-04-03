@@ -20,7 +20,7 @@ See [Resources](https://github.com/gymreklab/cse185-spring19/blob/master/resourc
 
 | Week | Topic | Lecture 1 | Lecture 2 | Lab Assignments |
 |------|-------|-----------|-------|-----------|
-|  1 | Intro to NGS | [Course overview + NGS intro](https://drive.google.com/file/d/1Mk2OiyY9vzMZ1Gp9T7Sdxkdk1Y7Qaiox/view?usp=sharing) | TBD | Mutation hunting - find the needle in a haystack | 
+|  1 | Intro to NGS | [Course overview + NGS intro](https://drive.google.com/file/d/1Mk2OiyY9vzMZ1Gp9T7Sdxkdk1Y7Qaiox/view?usp=sharing) | [NGS alignment and variant calling](https://drive.google.com/file/d/1sV3uGf2jUvxx_e2oraFAtz5vXqoGoX72/view?usp=sharing) | Mutation hunting - find the needle in a haystack | 
 |  2 | Genome assembly | TBD | TBD | So where do all those reference genomes come from, anyway? <br>Quiz 1 |
 |  3 | Population genetics | TBD | TBD |   How tall should I be? |
 |  4 | RNA-seq | TBD | TBD |  You are what you eat <br>Quiz 2 |
