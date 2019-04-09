@@ -37,7 +37,7 @@ Lectures will cover background material needed to complete the lab projects. Lab
 
 Attendance at lab and lecture is not mandatory but highly encouraged.
 
-For the first 7 weeks, students will work on a weekly lab assignment. Pre-class assignments should be completed before the start of the lab. The remainder of the lab assignment may be completed with a partner, but **you must choose a different partner each week**. Both of you must turn in the assignment separately. Lab assignments are due the following Monday before the start of lecture. Assignments will be completed using JupyterLab.
+For the first 7 weeks, students will work on a weekly lab assignment. Pre-class assignments should be completed before the start of the lab. The remainder of the lab assignment may be completed with a partner, but **you must choose a different partner each week**. Both of you must turn in the assignment separately. Lab assignments are due the following Monday at 11:59pm. Assignments will be completed using JupyterLab.
 
 Grades will be released using Gradesource. We will strive to post grades within one week of the due date of each lab.
 
