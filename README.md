@@ -21,7 +21,7 @@ See [Resources](https://github.com/gymreklab/cse185-spring19/blob/master/resourc
 | Week | Topic | Lecture 1 | Lecture 2 | Lab Assignments |
 |------|-------|-----------|-------|-----------|
 | 1 | Intro to NGS | [Course overview + NGS intro](https://drive.google.com/file/d/1Mk2OiyY9vzMZ1Gp9T7Sdxkdk1Y7Qaiox/view?usp=sharing) | [NGS alignment and variant calling](https://drive.google.com/file/d/1sV3uGf2jUvxx_e2oraFAtz5vXqoGoX72/view?usp=sharing) | Mutation hunting - find the needle in a haystack <br> [Week 1 resources](https://github.com/gymreklab/cse185-spring19/blob/master/resources.md#week1)| 
-|  2 | Genome assembly | [Intro to assembly](https://drive.google.com/file/d/103fbZXzDejznAwmfVV4rPfCWNN19jEGK/view?usp=sharing) | TBD | So where do all those reference genomes come from, anyway? <br>Quiz 1 |
+|  2 | Genome assembly | [Intro to assembly](https://drive.google.com/file/d/103fbZXzDejznAwmfVV4rPfCWNN19jEGK/view?usp=sharing) | [More assembly - filling the gaps](https://drive.google.com/file/d/13XODh7BkAI-o96FzqkRbakd5Y4wdn_Hb/view?usp=sharing) | So where do all those reference genomes come from, anyway? <br>Quiz 1 [Cheat sheet](https://github.com/gymreklab/cse185-spring19/blob/master/CSE185%20Quiz%201%20Cheat%20Sheet.pdf) |
 |  3 | Population genetics | TBD | TBD |   How tall should I be? |
 |  4 | RNA-seq | TBD | TBD |  You are what you eat <br>Quiz 2 |
 |  5 | ChIP-seq | TBD | TBD |  The dark matter of the genome |
