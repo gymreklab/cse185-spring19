@@ -22,7 +22,7 @@ See [Resources](https://github.com/gymreklab/cse185-spring19/blob/master/resourc
 |------|-------|-----------|-------|-----------|
 | 1 | Intro to NGS | [Course overview + NGS intro](https://drive.google.com/file/d/1Mk2OiyY9vzMZ1Gp9T7Sdxkdk1Y7Qaiox/view?usp=sharing) | [NGS alignment and variant calling](https://drive.google.com/file/d/1sV3uGf2jUvxx_e2oraFAtz5vXqoGoX72/view?usp=sharing) | Mutation hunting - find the needle in a haystack <br> [Week 1 resources](https://github.com/gymreklab/cse185-spring19/blob/master/resources.md#week1)| 
 |  2 | Genome assembly | [Intro to assembly](https://drive.google.com/file/d/103fbZXzDejznAwmfVV4rPfCWNN19jEGK/view?usp=sharing) | [More assembly - filling the gaps](https://drive.google.com/file/d/13XODh7BkAI-o96FzqkRbakd5Y4wdn_Hb/view?usp=sharing) | So where do all those reference genomes come from, anyway? <br>Quiz 1 [Cheat sheet](https://github.com/gymreklab/cse185-spring19/blob/master/CSE185%20Quiz%201%20Cheat%20Sheet.pdf) |
-|  3 | Population genetics | [Intro to pop gen](https://drive.google.com/file/d/1lXQQR7B9wlKjP0FZl-1xIxx8SQun_62s/view?usp=sharing) | TBD |   How tall should I be? |
+|  3 | Population genetics | [Intro to pop gen](https://drive.google.com/file/d/1lXQQR7B9wlKjP0FZl-1xIxx8SQun_62s/view?usp=sharing) | TBD | GWAS-How tall should I be?<br>[Week 3 resources](https://github.com/gymreklab/cse185-spring19/blob/master/resources.md#week3) |
 |  4 | RNA-seq | TBD | TBD |  You are what you eat <br>Quiz 2 |
 |  5 | ChIP-seq | TBD | TBD |  The dark matter of the genome |
 |  6 | Single cell | TBD | TBD |  Don’t get lost in the crowd <br>Quiz 3 |
