@@ -1,3 +1,5 @@
+A list of command line tools and UNIX commands we've covered so far is [here](https://docs.google.com/document/d/15Y3UMdZguknp2U2hGBqrpZxtd9oYmcv9sDUR6rSNA2k/edit?usp=sharing)
+
 # Week 1 - Intro to NGS
 <a name="week1"></a>
 * [Helpful 5 minute video to better understand Illumina sequencing](https://www.youtube.com/watch?v=fCd6B5HRaZ8)
