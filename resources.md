@@ -10,3 +10,4 @@ A list of command line tools and UNIX commands we've covered so far is [here](ht
 # Week 3 - Population genetics
 <a name="week3"></a>
 * [Bonus slides on PCA for ancestry analysis](http://gymreklab.com/teaching/personal_genomics/personal_genomics_2017.html#l3)
+* [Bonus slides on case-control GWAS](https://s3-us-west-2.amazonaws.com/cse291personalgenomics/Lectures2017/Lecture8_RiskPrediction.pptx)
