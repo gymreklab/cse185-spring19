@@ -68,7 +68,7 @@ Grades will be based on:
 * Final projects (16%): Proposal 3%, report 10%, presentation 3%
 * Participation (5%)
 
-Participation points can be earned in multiple ways. If you do any of these things you will get full points: (1) actively participate in class by asking and answering questions (2) actively participate in lab sessions by asking questions or helping others (3) regularly attend office hours (4) asking and answering helpful questions on Piazza or (5) providing helpful and constructive feedback for how labs or lectures can be improved.
+Participation points can be earned in multiple ways. If you do any of these things you will get full points: (1) actively participate in lecture by asking and answering questions (2) regularly attend office hours (3) asking and answering helpful questions on Piazza (at least 10 contributions) or (4) providing helpful and constructive feedback for how labs or lectures can be improved.
 
 At the end of the quarter, if *all* students fill out a course evaluation the lowest scoring weekly homework assignment will be dropped.
 
