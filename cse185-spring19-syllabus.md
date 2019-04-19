@@ -66,7 +66,9 @@ Grades will be based on:
 * Homework (70%): Each lab counts for 10% total (2% for prelab, 8% for main lab assignment)
 * Quizzes (9%): Each quiz is worth 3% each
 * Final projects (16%): Proposal 3%, report 10%, presentation 3%
-* Participation (5%): This can be earned in many ways, e.g. by participating in lecture, asking questions in lab, coming to office hours.
+* Participation (5%)
+
+Participation points can be earned in multiple ways. If you do any of these things you will get full points: (1) actively participate in class by asking and answering questions (2) actively participate in lab sessions by asking questions or helping others (3) regularly attend office hours (4) asking and answering helpful questions on Piazza or (5) providing helpful and constructive feedback for how labs or lectures can be improved.
 
 At the end of the quarter, if *all* students fill out a course evaluation the lowest scoring weekly homework assignment will be dropped.
 
