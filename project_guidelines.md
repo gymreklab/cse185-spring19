@@ -36,7 +36,7 @@ Proposals are worth 3% of your grade. They are scored out of 6 points:
 Proposals will be submitted through piazza. You only need to turn in one assignment per group.
 
 ## Presentation (3%)
-** Talks will take place during the scheduled lab hours in week 10 **
+**Talks will take place during the scheduled lab hours in week 10**
 (Location TBA)
 
 Each group will give a five minute presentation about their project. Guidelines:
@@ -70,6 +70,13 @@ Project resports will be structured the same as a lab report with the following 
 Other notes:
 * Lab reports should be turned in on Piazza. Please submit a PDF that is no more than 10 pages.
 * If you write your own scripts, please upload those along with your assignment.
+
+### Report scoring:
+Reports are worth 10% of your grade. They are scored out of 20 points:
+
+* 5pts: The report is well written, conforms to the guidelines above, and meets all the criteria
+* 5pts: The methods section is written clearly enough so that we could be able to reproduce your work.
+* 10pts: How close did you come to reproducing the results? If you couldn't, is there a good rationale for why not?
 
 ## Awards
 We will be giving out several awards for top projects! Each award is worth 2 points of extra credit. 
