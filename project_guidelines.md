@@ -23,7 +23,7 @@ For the proposal, write no more than one page total, with the following sections
  * List the paper you will be reproducing analyses from and descrbe exactly which results (e.g. Figures 1a, 2f, 3b and Table 2 etc.) you will try to reproduce.
  * Provide a description of the dataset you will use: what is the accession number, what type of data is it, what format is the available data, and how big is it?
 4. Bioinformatics pipeline:
- * Describe the steps of your data processing pipeline. Which specific tools will you need to use? Your analysis must include at least 5 different tools. Downloading data soes not count, nor do sub-commands within a single piece of software or trivial commands (e.g. `cp`).
+ * Describe the steps of your data processing pipeline. Which specific tools will you need to use? Your analysis must include at least 5 different tools. Downloading data does not count, nor do sub-commands within a single piece of software or trivial commands (e.g. `cp`).
  * One of the software tools must be either: (1) a tool we haven't used in class, which you will need to install yourself (2) an executable script (not just plotting) that you wrote for this project.
 
 
@@ -68,7 +68,7 @@ Project resports will be structured the same as a lab report with the following 
 * Appendix: describe who in the group did which pieces of the project.
 
 Other notes:
-* Lab reports should be turned in on Piazza. Please submit a PDF that is no more than 10 pages.
+* Lab reports should be turned in on Piazza. Please submit a PDF that is no more than 10 pages and a minimum of 8 pages.
 * If you write your own scripts, please upload those along with your assignment.
 
 ### Report scoring:
@@ -79,7 +79,7 @@ Reports are worth 10% of your grade. They are scored out of 20 points:
 * 10pts: How close did you come to reproducing the results? If you couldn't, is there a good rationale for why not?
 
 ## Awards
-We will be giving out several awards for top projects! Each award is worth 2 points of extra credit. 
+We will be giving out several awards for top projects! Each award is worth 2 points (2% of overall grade) of extra credit. 
 
 * Most beautiful figure
 * Best presentation
