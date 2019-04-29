@@ -4,7 +4,7 @@ For the last three weeks of the course, you will be working on independent proje
 
 The overall goal of the project is to reproduce the findings of a published research paper (this can be harder than it sounds!).
 
-We have provided some example papers, and which parts of them you should try to reproduce, below. You are welcome to instead choose a different paper, but you must run it by us before you get started to make sure it is reasonble.
+We will be providing some example papers, and which parts of them you should try to reproduce, in a document linked to below. You are welcome to instead choose a different paper, but you must run it by us before you get started to make sure the scope of your proposed project is reasonble.
 
 Projects will be completed in **groups of 1-3**. We strongly encourage you to work with a partner! You will not be graded any differently if you work alone. i.e. you will be expected to do the same amount as a 3 person group.
 
