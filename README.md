@@ -24,7 +24,7 @@ See [Resources](https://github.com/gymreklab/cse185-spring19/blob/master/resourc
 |  2 | Genome assembly | [Intro to assembly](https://drive.google.com/file/d/103fbZXzDejznAwmfVV4rPfCWNN19jEGK/view?usp=sharing) | [More assembly - filling the gaps](https://drive.google.com/file/d/13XODh7BkAI-o96FzqkRbakd5Y4wdn_Hb/view?usp=sharing) | So where do all those reference genomes come from, anyway? <br>Quiz 1 [Cheat sheet](https://github.com/gymreklab/cse185-spring19/blob/master/CSE185%20Quiz%201%20Cheat%20Sheet.pdf) <br>[Quiz 1 Answers](https://drive.google.com/file/d/1I9zGxeYU2mTqzCQNGTpxEo_rn7BiqWOZ/view?usp=sharing) |
 |  3 | Population genetics | [Intro to pop gen](https://drive.google.com/open?id=1lXQQR7B9wlKjP0FZl-1xIxx8SQun_62s) | [GWAS and p-values](https://drive.google.com/file/d/19W5W4i7HIHppc8nyZ7OO0ZkvlwT6nDqt/view?usp=sharing) | GWAS-How tall should I be?<br>[Week 3 resources](https://github.com/gymreklab/cse185-spring19/blob/master/resources.md#week3) |
 |  4 | RNA-seq | [Intro to RNA-seq](https://drive.google.com/open?id=1z8N0UUHR-95eqHY4DnNBZSKG9c8WFy4_) | [Differential expression](https://drive.google.com/file/d/1mat_8qSukW8rTGFngLiEqU1kn6SUtmuL/view?usp=sharing) |  You are what you eat <br>Quiz 2 [Cheat sheet](https://github.com/gymreklab/cse185-spring19/blob/master/CSE185%20Quiz%202%20Cheat%20Sheet.pdf) |
-|  5 | ChIP-seq | TBD | TBD |  The dark matter of the genome |
+|  5 | ChIP-seq | [ChIP-sequencing and epigenomics](https://drive.google.com/file/d/1BknWkxE2rhzDZUexGHkDARE-rGqKpsLs/view?usp=sharing) | TBD |  The dark matter of the genome |
 |  6 | Single cell | TBD | TBD |  Don’t get lost in the crowd <br>Quiz 3 |
 |  7 | Proteomics | TBD | TBD |  CSI: Proteomics |
 |  8 | Projects | TBD | TBD | Independent projects |
