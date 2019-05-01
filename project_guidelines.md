@@ -76,7 +76,7 @@ Reports are worth 10% of your grade. They are scored out of 20 points:
 
 * 5pts: The report is well written, conforms to the guidelines above, and meets all the criteria
 * 5pts: The methods section is written clearly enough so that we could be able to reproduce your work.
-* 10pts: How close did you come to reproducing the results? If you couldn't, is there a good rationale for why not?
+* 10pts: How close did you come to reproducing the results? How many of the figures and tables proposed were you able to reproduce? If you couldn't, is there a good rationale for why not?
 
 ## Awards
 We will be giving out several awards for top projects! Each award is worth 2 points (2% of overall grade) of extra credit. 
