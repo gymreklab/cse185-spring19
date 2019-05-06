@@ -30,5 +30,5 @@ See [Resources](https://github.com/gymreklab/cse185-spring19/blob/master/resourc
 |  6 | Single cell | [scRNA-seq overview](https://drive.google.com/file/d/1VEZAjHkOWbDUO3mMAxcFQDzuZqzVa1tN/view?usp=sharing) | TBD |  Don’t get lost in the crowd <br>Quiz 3 |
 |  7 | Proteomics | TBD | TBD |  CSI: Proteomics |
 |  8 | Projects | TBD | TBD | Independent projects |
-|  9 | Projects | TBD |  TBD | Independent projects |
+|  9 | Projects | Memorial Day - no lecture |  TBD | Independent projects |
 |  10 | Projects | TBD | TBD | Independent projects |
