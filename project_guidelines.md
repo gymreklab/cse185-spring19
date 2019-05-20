@@ -26,6 +26,7 @@ For the proposal, write no more than one page total, with the following sections
  * Describe the steps of your data processing pipeline. Which specific tools will you need to use? Your analysis must include at least 5 different tools. Downloading data does not count, nor do sub-commands within a single piece of software or trivial commands (e.g. `cp`).
  * One of the software tools must be either: (1) a tool we haven't used in class, which you will need to install yourself (2) an executable script (not just plotting) that you wrote for this project.
 
+Turn in a PDF of your proposal. Font Arial 11 with 1-inch margins.
 
 ### Proposal scoring:
 Proposals are worth 3% of your grade. They are scored out of 6 points:
@@ -62,13 +63,13 @@ Project resports will be structured the same as a lab report with the following 
 * Title: Should be short and informative
 * Introduction: provide some background and motivation for the study, plus a brief summary of your results.
 * Methods: provide enough details about the tools, versions, and options you used to reproduce exactly what you did. Should be divided into subheadings
-* Results: summarize each main item of the original paper you reproduced. Should be divided into subheadings
+* Results: summarize each main item of the original paper you reproduced. Should be divided into subheadings. Show your results side by side with the results you tried to reproduce.
 * Discussion: you may discuss: potential limitations of your analysis, challenges you faced, and how your pipeline could be improved.
 * References: cite at least 4 scientific journal articles.
 * Appendix: describe who in the group did which pieces of the project.
 
 Other notes:
-* Lab reports should be turned in on Piazza. Please submit a PDF that is no more than 10 pages and a minimum of 8 pages.
+* Lab reports should be turned in on Piazza. Please submit a PDF that is no more than 10 pages and a minimum of 8 pages. Font Arial 11 with 1-inch margins.
 * If you write your own scripts, please upload those along with your assignment.
 
 ### Report scoring:
