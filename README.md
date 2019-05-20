@@ -14,7 +14,7 @@ Grades will be posted on [Gradesource](gradesource.com) Course CSE185-SP19
 
 See [Jupyter Assignment Instructions](https://github.com/gymreklab/cse185-spring19/blob/master/jupyter_assignment_instructions.md) to get started with the labs.
 
-See [Final Project Guidelines](https://github.com/gymreklab/cse185-spring19/blob/master/project_guidelines.md) for information about final projects.
+See [Final Project Guidelines](https://github.com/gymreklab/cse185-spring19/blob/master/project_guidelines.md) for information about final projects. Also see [Week 8 slides](https://drive.google.com/file/d/1U81D72XGHZ7w5bclNOBfxpjr4LBEuF0I/view?usp=sharing) with additional tips and guidelines.
 
 See [Resources](https://github.com/gymreklab/cse185-spring19/blob/master/resources.md) for more helpful resources each week.
 
@@ -29,6 +29,6 @@ See [Resources](https://github.com/gymreklab/cse185-spring19/blob/master/resourc
 |  5 | ChIP-seq | [ChIP-sequencing and epigenomics](https://drive.google.com/file/d/1BknWkxE2rhzDZUexGHkDARE-rGqKpsLs/view?usp=sharing) | [Motif analysis](https://drive.google.com/file/d/1EtNHwLHXae6bv_YVkwxHiXiTk89NKwss/view?usp=sharing) |  The dark matter of the genome |
 |  6 | Single cell | [scRNA-seq overview](https://drive.google.com/file/d/1VEZAjHkOWbDUO3mMAxcFQDzuZqzVa1tN/view?usp=sharing) | [scRNA-seq analysis](https://drive.google.com/file/d/1VcJb0SD0FUUa5ucvHNEsg0qdO_1UyRbk/view?usp=sharing) |  Don’t get lost in the crowd <br>Quiz 3 [Topics list](https://github.com/gymreklab/cse185-spring19/blob/master/CSE185%20Quiz%203%20Topics%20List.pdf) |
 |  7 | Proteomics | [Proteomics +mass spec intro](https://drive.google.com/file/d/1HVTyo5CeMb7aNghE4OwR_SvX7KwxAxLQ/view?usp=sharing) | [Mass spec database search](https://drive.google.com/open?id=1TS0Yq-fkpRbRaEEMFtvJDwWKkwccvx5z) |  CSI: Proteomics |
-|  8 | Projects | Project tips and guidelines | Special topic #1: Deep Learning | Independent projects |
+|  8 | Projects | [Project tips and guidelines](https://drive.google.com/file/d/1U81D72XGHZ7w5bclNOBfxpjr4LBEuF0I/view?usp=sharing) | Special topic #1: Deep Learning | Independent projects |
 |  9 | Projects | Memorial Day - no lecture |  Special topic #2: Genome editing | Independent projects |
 |  10 | Projects | Special topic #3: Complex variants | No lecture | Independent projects |
