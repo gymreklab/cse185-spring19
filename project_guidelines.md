@@ -26,7 +26,7 @@ For the proposal, write no more than one page total, with the following sections
  * Describe the steps of your data processing pipeline. Which specific tools will you need to use? Your analysis must include at least 5 different tools. Downloading data does not count, nor do sub-commands within a single piece of software or trivial commands (e.g. `cp`).
  * One of the software tools must be either: (1) a tool we haven't used in class, which you will need to install yourself (2) an executable script (not just plotting) that you wrote for this project.
 
-Turn in a PDF of your proposal. Font Arial 11 with 1-inch margins.
+Turn in a PDF of your proposal. Font Arial 11 with 1-inch margins. 1.5-line spacing.
 
 ### Proposal scoring:
 Proposals are worth 3% of your grade. They are scored out of 6 points:
@@ -34,7 +34,8 @@ Proposals are worth 3% of your grade. They are scored out of 6 points:
 * 2 pts: There is evidence you have actually already downloaded the data and have a clear idea of the format and file size of the data you'll be working with.
 * 2 pts: There is a clear description of which tools will be used for the pipeline.
 
-Proposals will be submitted through piazza. You only need to turn in one assignment per group.
+Proposals will be submitted through email. You only need to turn in one assignment per group.
+Email your proposal to all the course instructors (mgymrek@eng.ucsd.edu, cew003@eng.ucsd.edu, s1saini@eng.ucsd.edu, jmargoli@eng.ucsd.edu) with subject line [CSE185-PROPOSAL-GROUP#], where  "#" should be your group number.
 
 ## Presentation (3%)
 **Talks will take place during the scheduled lab hours in week 10**
@@ -69,8 +70,9 @@ Project resports will be structured the same as a lab report with the following 
 * Appendix: describe who in the group did which pieces of the project.
 
 Other notes:
-* Lab reports should be turned in on Piazza. Please submit a PDF that is no more than 10 pages and a minimum of 8 pages. Font Arial 11 with 1-inch margins.
-* If you write your own scripts, please upload those along with your assignment.
+* The report should be in PDF format, 8-10 pages. Font Arial 11 with 1-inch margins. 1.5-line spacing. 
+* Reports should be turned in via email. Email your proposal to all the course instructors (mgymrek@eng.ucsd.edu, cew003@eng.ucsd.edu, s1saini@eng.ucsd.edu, jmargoli@eng.ucsd.edu) with subject line [CSE185-REPORT-GROUP#], where  "#" should be your group number.
+* If you write your own scripts, please submit those along with your assignment.
 
 ### Report scoring:
 Reports are worth 10% of your grade. They are scored out of 20 points:
