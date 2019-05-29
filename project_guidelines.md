@@ -39,21 +39,21 @@ Email your proposal to all the course instructors (mgymrek@eng.ucsd.edu, cew003@
 
 ## Presentation (3%)
 **Talks will take place during the scheduled lab hours in week 10**
-(Location TBA)
+(Location CSE1202)
 
-Each group will give a five minute presentation about their project. Guidelines:
+Each group will give a 5.5 minute presentation about their project. Guidelines:
 
 * Briefly introduce your project and the dataset.
 * Summarize your methods and results.
 * Highlight one more challenges you faced and how you dealt with it.
 
-There will be 1 minute of Q&A after each presentation. You can earn one participation point (out of the 5 possible for the course) for each question you ask during the Q&A. Note however your participation score for the course will still be capped at 5 points.
+The presentation should be 4.5 minutes (+/- 15 seconds). Remaining time will be for Q&A. You can earn one participation point (out of the 5 possible for the course) for each question you ask during the Q&A. Note however your participation score for the course will still be capped at 5 points.
 
 ### Presentation scoring:
 Presentations are worth 3% of your grade. They are scored out of 4 points:
 * 1 pt: The talk gives a clear and interesting description of your project
 * 1 pt: Talk includes all the items listed above.
-* 1 pt: Talk is within time (must not go over 5 mins. minimum time: 4 mins. 30 seconds. e.g. you cannot talk for 30 seconds and claim it is within time!)
+* 1 pt: Talk is within time (4.5 mins +/- 15s)
 * 1 pt: How well you respond to the Q&A questions.
 
 ## Report (10%)
