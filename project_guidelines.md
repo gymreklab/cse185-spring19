@@ -49,6 +49,8 @@ Each group will give a 5.5 minute presentation about their project. Guidelines:
 
 The presentation should be 4.5 minutes (+/- 15 seconds). Remaining time will be for Q&A. You can earn one participation point (out of the 5 possible for the course) for each question you ask during the Q&A. Note however your participation score for the course will still be capped at 5 points.
 
+Sign up for presentations [here](https://docs.google.com/spreadsheets/d/1U-N37TwFOQ-JkPDkBN8_O0iPxnlYMPwfCmNfFRWQlP0/edit#gid=0). Include a link to your slides by the night before so we can transition smoothly between groups.
+
 ### Presentation scoring:
 Presentations are worth 3% of your grade. They are scored out of 4 points:
 * 1 pt: The talk gives a clear and interesting description of your project
@@ -70,7 +72,7 @@ Project resports will be structured the same as a lab report with the following 
 * Appendix: describe who in the group did which pieces of the project.
 
 Other notes:
-* The report should be in PDF format, 8-10 pages. Font Arial 11 with 1-inch margins. 1.5-line spacing. 
+* The report should be in PDF format, 8-10 pages. Font Arial 11 with 1-inch margins. 1.5-line spacing. References and appendix don't count toward page limit. 
 * Reports should be turned in via email. Email your proposal to all the course instructors (mgymrek@eng.ucsd.edu, cew003@eng.ucsd.edu, s1saini@eng.ucsd.edu, jmargoli@eng.ucsd.edu) with subject line [CSE185-REPORT-GROUP#], where  "#" should be your group number.
 * If you write your own scripts, please submit those along with your assignment.
 
