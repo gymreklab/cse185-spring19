@@ -31,4 +31,4 @@ See [Resources](https://github.com/gymreklab/cse185-spring19/blob/master/resourc
 |  7 | Proteomics | [Proteomics +mass spec intro](https://drive.google.com/file/d/1HVTyo5CeMb7aNghE4OwR_SvX7KwxAxLQ/view?usp=sharing) | [Mass spec database search](https://drive.google.com/open?id=1TS0Yq-fkpRbRaEEMFtvJDwWKkwccvx5z) |  CSI: Proteomics |
 |  8 | Projects | [Project tips and guidelines](https://drive.google.com/file/d/1U81D72XGHZ7w5bclNOBfxpjr4LBEuF0I/view?usp=sharing) | [Special topic #1: Deep Learning](https://drive.google.com/file/d/1Wp3x_3bxMNttOOkMNuWALf0nF26fZCbT/view?usp=sharing) | Independent projects |
 |  9 | Projects | Memorial Day - no lecture |  [Special topic #2: Genome editing](https://drive.google.com/file/d/1Dv35-ti7KeHh2lgE0vEbGa3BpZjfDjlc/view?usp=sharing) | Independent projects |
-|  10 | Projects | Special topic #3: Complex variants | No lecture | Independent projects |
+|  10 | Projects | [Special topic #3: Complex variants](https://drive.google.com/file/d/1G9DaDamBiQ7lRxdRsa4ZLn4RfPcEKSs9/view?usp=sharing) | No lecture | Independent projects |
